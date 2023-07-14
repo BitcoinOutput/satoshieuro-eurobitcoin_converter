@@ -3,7 +3,7 @@
 		"test": "xo"
 	},
 	"devDependencies": {
-		"xo": "^0.32.1"
+		"xo": "^0.54.2"
 	},
 	"xo": {
 		"esnext": true,
